@@ -67,13 +67,6 @@ The major steps involved are:
 
 * Calculate the distance between the avatar and the destination and create a stick of the corresponding length.
 
-## Acknowledgements
-
- - [Awesome Readme Templates](https://awesomeopensource.com/project/elangosundar/awesome-README-templates)
- - [Awesome README](https://github.com/matiassingers/awesome-readme)
- - [How to write a Good readme](https://bulldogjob.com/news/449-how-to-write-a-good-readme-for-your-github-project)
-
-
 ## :mega: Feedback
 
 This is my very first GitHub repository so I would love to hear from you any suggestions on how to improve on my work. Also if you have any suggestions, bug reports, or feature requests, please don't hesitate to open an issue on GitHub. Your feedback helps us make this project better for everyone.
